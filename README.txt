@@ -1,4 +1,4 @@
-File inside assignment folder included css assignments.
+File inside assignment folder included css assignments and js assignments.
 file name is README.txt.
 related to html assignments and css assignments.
 chages in master
